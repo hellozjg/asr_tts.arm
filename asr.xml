@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="asr/xml">
+			<settings>
+			    <param name="log_level" value="4"/>
+				<param name="port" value="4451"/>
+			</settings>
+
+			<services> 
+			  <service id="1" asr_type="3">
+				<params>
+					<param name="addr" value="172.26.50.105"/>
+					<param name="port" value="8020"/>
+					<param name="results" value="您好;好的;可以"/>
+				</params>
+			  </service>
+			</services>
+
+</document>
